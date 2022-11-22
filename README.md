@@ -3,7 +3,7 @@ Un blog increible para el curso de Git y Github.
 >El curso de Git y Github es lo que me hacia falta para comenzar a desarrollar aplicaciones de manera ordenada.
 >-Yopo
 
-##En este curso vemos:
+## En este curso vemos:
 - Todos los comandos de Git
 - El flujo de trabajo en Github
 - El verdadero amor por las buenas practicas
