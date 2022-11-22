@@ -1,2 +1,2 @@
-## hyprtblog
+# hyprtblog
 Un blog increible
